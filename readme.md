@@ -12,4 +12,4 @@ Altschool Registration website page clone created with HTML and CSS.
 To get started with this project, clone this repository to your local machine.
 
 ## Demo Link
-Link to project - https://github.com/your-username/your-repo-name.git
+Link to project - bolualtschool-assignment1.netlify.app
